@@ -1,4 +1,7 @@
 # Hamster-Kombat-Clone-Script
+
+<a href="https://ibb.co/hdBqqG0"><img src="https://i.ibb.co/Ydcrr5g/image-2.png" alt="image-2" border="0" /></a>
+
 Hamster Kombat Clone Script : Instantly Start Your T2E  Game
 
 The game industry is always changing, and novel concepts like Tap-to-Earn (T2E) are drawing interest and setting new standards. A great example of this tendency is the immensely popular T2E game on Telegram called Hamster Kombat.
