@@ -55,6 +55,6 @@ Ready to launch your own T2E game? Download the Hamster Kombat Clone Script and 
 
 - [![Website](https://img.shields.io/badge/Website-cryptoclonescript.com-orange)](https://www.cryptoclonescript.com)
 - [![Telegram](https://img.shields.io/badge/Telegram-%40cryptoclonescript-blue)](https://t.me/cryptoclonescript)
-- [![Skype](https://img.shields.io/badge/Skype-%40cryptoclonescript-green)](https://join.skype.com/invite/cryptoclonescript)
+- [![Skype](https://img.shields.io/badge/Skype-%40cryptoclonescript-green)](https://join.skype.com/invite/vhkiSG0tVgQj)
 
 ---
